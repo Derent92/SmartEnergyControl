@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.idea",
+    "\\ac-control",
+    "\\ac-control\\src",
+    "\\ac-control\\src\\swt6",
+    "\\ac-control\\src\\swt6\\modular",
+    "\\ac-control\\src\\swt6\\modular\\ac",
+    "\\out\\production",
+    "\\out\\production\\ac-control",
+    "\\out\\production\\balcony-power-plant"
+  ],
+  "SelectedNode": "\\ac-control\\src\\swt6\\modular\\ac\\AirConditionApi.java",
+  "PreviewInSolutionExplorer": false
+}
